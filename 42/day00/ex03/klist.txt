@@ -1,0 +1,5 @@
+Credentials cache: API:32176
+        Principal: igallach@42.US.ORG
+
+  Issued                Expires               Principal
+Jan  8 16:22:00 2018  Jan  9 02:21:50 2018  krbtgt/42.US.ORG@42.US.ORG
